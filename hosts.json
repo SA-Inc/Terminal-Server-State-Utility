@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TCP Socket 1",
+    "address": "192.168.10.12",
+    "port": 9000
+  },
+  {
+    "name": "TCP Socket 2",
+    "address": "192.168.10.13",
+    "port": 3000
+  },
+  {
+    "name": "TCP Socket 3",
+    "address": "192.168.10.14",
+    "port": 5000
+  }
+]
